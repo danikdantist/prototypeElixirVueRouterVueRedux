@@ -1,5 +1,8 @@
 {
-  "scripts": {},
+  "engines" : { 
+    "node" : "^6.4",
+    "npm" : "^3.10"
+  },
   "dependencies": {
     
     "redux": "^3.5.2",
